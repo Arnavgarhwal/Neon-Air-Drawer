@@ -4,7 +4,7 @@
   position: relative;
   overflow: hidden;
 }
-
+   
 .gesture-status {
   position: fixed;
   bottom: 40px;
